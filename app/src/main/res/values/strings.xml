@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">My Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="playlists">Playlists</string>
+    <string name="recent"> &#160; Recent</string>
+    <string name="my_music"> &#160; My music</string>
+    <string name="favorite"> &#160; Favorites</string>
+    <string name="key">key</string>
+
+    <string name="song_name1">Paperclip</string>
+    <string name="song_name2">One Step Further</string>
+    <string name="song_name3"> With Everyone</string>
+    <string name="song_name4">Points Or Periods?</string>
+    <string name="song_name5">Running</string>
+    <string name="song_name6">Walk Home </string>
+    <string name="song_name7">By You</string>
+    <string name="song_name8">In The Beginning </string>
+    <string name="song_name9"> A Place For My Dad</string>
+    <string name="song_name10">Remembered</string>
+    <string name="song_name11">Cure For My Itch</string>
+
+    <string name="album_name1">Papercut</string>
+    <string name="album_name2">One Step Closer</string>
+    <string name="album_name3">With You</string>
+    <string name="album_name4">Points Of Authority</string>
+    <string name="album_name5">Crawling</string>
+    <string name="album_name6">Runaway</string>
+    <string name="album_name7">By Myself</string>
+    <string name="album_name8">In The End</string>
+    <string name="album_name9">A Place For My Head</string>
+    <string name="album_name10">Forgotten</string>
+    <string name="album_name11">Cure For The Itch</string>
+
+    <string name="artist_name1">Becky</string>
+    <string name="artist_name2">Fat Cat</string>
+    <string name="artist_name3">Goldie</string>
+    <string name="artist_name4">Don</string>
+    <string name="artist_name5">Green Goblin</string>
+    <string name="artist_name6">Bobby</string>
+    <string name="artist_name7">Ginger</string>
+    <string name="artist_name8">Baddie Baldie</string>
+    <string name="artist_name9">Geminita</string>
+    <string name="artist_name10">Goldilocks</string>
+    <string name="artist_name11">Fred The Head</string>
+
+    <string name="lofi_playlist">Lofi playlist</string>
+    <string name="game_playlist">Game Playlist</string>
+    <string name="now_playing">Now Playing</string>
+
+</resources>
